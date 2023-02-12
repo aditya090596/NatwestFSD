@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Tim",
+      "contactno": 38213483,
+      "email": "tim@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rim",
+      "contactno": 38213483,
+      "email": "Rim@gmail.com"
+    },
+    {
+      "name": "hni",
+      "contactno": "353453453",
+      "email": "avc@email",
+      "id": 3
+    },
+    {
+      "name": "",
+      "contactno": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "contactno": "",
+      "email": "",
+      "id": 5
+    }
+  ]
+}
