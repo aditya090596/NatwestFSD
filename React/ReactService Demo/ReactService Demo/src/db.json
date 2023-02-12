@@ -1,0 +1,18 @@
+{
+  "News": [
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Lucas Joel",
+      "title": "Asteroid that wiped out dinosaurs caused mass extinction by acidifying ocean, scientists find - The Independent",
+      "description": "New research suggests that impact had devastating results for marine life",
+      "url": "https://www.independent.co.uk/news/science/dinosaur-extinction-asteroid-ocean-acidification-food-chain-chicxulub-a9165936.html",
+      "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/22/10/asteroid-impact.jpg",
+      "publishedAt": "2019-10-22T11:39:47Z",
+      "content": "What happened to the dinosaurs when an asteroid about six miles wide struck Earth some 66 million years ago in what is today Mexico is well known: it wiped them out. But the exact fate of our planets diverse ocean dwellers at the time shelly ammonites, giant … [+12336 chars]",
+      "id": 1
+    }
+  ]
+}

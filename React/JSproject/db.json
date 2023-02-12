@@ -1,0 +1,18 @@
+{
+  "database": [
+    {
+      "firstname": "Vivek",
+      "lastname": "Coder",
+      "email": "vc@123",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "firstname": "Vivek",
+      "lastname": "Coder",
+      "email": "vc123",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
