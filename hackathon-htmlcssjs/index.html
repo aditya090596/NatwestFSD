@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
+    <title>Natwest</title>
+</head>
+
+<body>
+    <div class="container ">
+        <nav class="navbar navbar-expand-lg bg-dark  ">
+
+            <div class="container-fluid">
+                <img src="./images/natwest-logo.png" alt="">
+                <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item px-2 ">
+                            <a class="nav-link active  text-light" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 text-light" href="#">About us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-1 text-light" href="#">Products</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-light" href="#" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Services
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Loans</a></li>
+                                <li><a class="dropdown-item" href="#">Accounts</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="#">Mortgages</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
+
+
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                        Register
+                    </button>
+                    <button class="btn btn-primary mx-2" type="submit" data-bs-toggle="modal"
+                        data-bs-target="#exampleModal1">Log in</button>
+
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Sign up -->
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">New User?</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                    <form class="  needs-validation" novalidate>
+                        <div>
+                            <label for="fname" class="form-label">Full name</label>
+                            <input type="text" class="form-control" id="fname" required>
+                            <div class="invalid-feedback">
+                                Please Enter your First name.
+                            </div>
+                        </div>
+                        <div>
+                            <label for="address" class="form-label">Address</label>
+                            <input type="text" class="form-control" id="address" required>
+                            <div class="invalid-feedback">
+                                Enter your address.
+                            </div>
+                        </div>
+
+                        <div>
+                            <label for="validationCustom03" class="form-label">Your email address</label>
+                            <input type="email" class="form-control" aria-describedby="emailHelp"
+                                id="validationCustom03" required>
+                            <div class="invalid-feedback">
+                                Enter your email address
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="accnumber" class="form-label">Account Number</label>
+                            <input type="text" class="form-control" id="accnumber">
+                        </div>
+                        <div class="mb-3">
+                            <label for="Phonenumber" class="form-label">Phone Number</label>
+                            <input type="text" class="form-control" id="Phonenumber">
+                        </div>
+                        <div>
+                            <label for="validationCustom04" class="form-label">Create your Password</label>
+                            <input type="password" class="form-control" id="validationCustom04" required>
+                            <div class="invalid-feedback">
+                                Choose your password
+                            </div>
+                        </div>
+                        <div>
+                            <label for="validationCustom05" class="form-label">Confirm Password</label>
+                            <input type="password" class="form-control" id="validationCustom05" required>
+                            <div class="invalid-feedback">
+                                Confirm your password
+                            </div>
+                        </div>
+
+                        <div class="col-12 py-3">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+                                <label class="form-check-label" for="invalidCheck">
+                                    Agree to terms and conditions
+                                </label>
+                                <div class="invalid-feedback">
+                                    You must agree before submitting.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <button class="btn btn-primary" type="submit" onclick="addUser(event)">Sign up</button>
+                        </div>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Login -->
+
+    <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Login</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                    <form class="  needs-validation" novalidate>
+                        <div>
+                            <label for="loginEmail" class="form-label">Your email address</label>
+                            <input type="email" class="form-control" aria-describedby="emailHelp" id="loginEmail"
+                                required>
+                            <div class="invalid-feedback">
+                                Enter your email address
+                            </div>
+                        </div>
+                        <div>
+                            <label for="loginPassword" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="loginPassword" required>
+                            <div class="invalid-feedback">
+                                Choose your password
+                            </div>
+                        </div>
+                        <div class="col-12 mt-4">
+                            <button class="btn btn-primary" type="submit" onclick="login(event)">Login</button>
+                        </div>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="container my-2">
+            <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="./images/natwest2.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./images/Natwest.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./images/Natwest3.jpg" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="container my-2">
+        <div class="d-flex bg-secondary">
+            <div class="card mx-1 my-2 bg-warning">
+                <img src="./images/card1.jpg" class="card-img-top " alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Loans</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                    <a href="https://www.natwest.com/loans.html" class="btn btn-primary">Check Loan availbilty</a>
+                </div>
+            </div>
+            <div class="card mx-1 my-2 bg-warning">
+                <img src="./images/Card2.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Mortgages</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                    <a href="https://www.natwest.com/mortgages.html" class="btn btn-primary">Mortgages?</a>
+                </div>
+            </div>
+            <div class="card mx-1 my-2 bg-warning">
+                <img src="./images/card 3.jpg " class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Insurance</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                        card's content.</p>
+                    <a href="https://www.natwest.com/insurance.html" class="btn btn-primary">Protect your Home</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <footer class="footer-sec bg-secondary" style="background-color:azure ;">
+
+                <div class="container text-center">
+
+
+                    <div class="row">
+
+                        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+
+                            <h1>ContactUs</h1>
+                            <h5>
+                                <a href="https://goo.gl/maps/F2ScatxXmea8ZA6PA" target="_blank"><i
+                                        class="bi bi-phone-fill "></i></a>
+                            </h5>
+
+
+                        </div>
+
+                        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+
+                            <h1>ConnectUs</h1>
+                            <h5>Located in: Building Candor Techspace
+                                Address: Building 1, Tower A, Unitech Infospace, <br>Old Delhi Gurgaon Rd, Sector 21,
+                                Gurugram, Haryana 122016 !!!</h5>
+
+                        </div>
+
+                        <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+
+                            <h1>ReachUs</h1>
+                            <h5>
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28052.15141698341!2d77.0569185449082!3d28.49403109551849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1964fdda0243%3A0xea892a7f1201881!2sRBS%20Services%20India%20Pvt.%20Ltd!5e0!3m2!1sen!2sin!4v1665732892118!5m2!1sen!2sin"
+                                    width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy"
+                                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </h5>
+
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+        crossorigin="anonymous"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
