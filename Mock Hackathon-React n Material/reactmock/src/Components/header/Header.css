@@ -1,0 +1,19 @@
+.text-light {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.btn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    border-radius: 10px;;
+}
+.header {
+   background-color:rgb(64,22,100);
+   /* color:salmon; */
+   border-radius: 20px;
+   padding-top: 5px; 
+   
+}
+.tab :hover{
+    text-decoration: underline;
+}

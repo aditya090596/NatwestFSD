@@ -1,0 +1,53 @@
+{
+  "Customerdetail": [
+    {
+      "firstname": "Adi",
+      "lastname": "Sha",
+      "email": "sharagz@rbos.co.uk",
+      "city": "Ind",
+      "age": "26",
+      "password": "Asd123",
+      "confirmpassword": "Asd123",
+      "id": 1
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Sha",
+      "email": "sharagz@rbos.co.uk",
+      "city": "Ind",
+      "age": "26",
+      "password": "Asd123",
+      "confirmpassword": "Asd123",
+      "id": 2
+    },
+    {
+      "email": "sharma.aditya213@gmail.com",
+      "password": "Asd!123",
+      "id": 3
+    },
+    {
+      "firstname": "fffew",
+      "lastname": "dsf",
+      "email": "username@gmail.com",
+      "city": "s",
+      "Account": "9",
+      "Phonenumber": "9",
+      "age": "d",
+      "password": "1",
+      "confirmpassword": "1",
+      "id": 4
+    },
+    {
+      "firstname": "Asd",
+      "lastname": "asd",
+      "email": "sharagz@rbos.co.uk",
+      "city": "d",
+      "Account": "123",
+      "Phonenumber": "23",
+      "age": "24",
+      "password": "Asd",
+      "confirmpassword": "Asd",
+      "id": 5
+    }
+  ]
+}
