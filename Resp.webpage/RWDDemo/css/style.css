@@ -1,0 +1,15 @@
+.navbar-brand img
+{
+    height: 8vh;
+    width: 10vw;
+}
+
+.bg-light
+{
+    background-color: cadetblue !important;
+}
+
+/* .cimage
+{
+    height: 80vh;
+} */
