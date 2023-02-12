@@ -1,0 +1,38 @@
+Write an algo to automate the airways ticket and cal total fair inl convinience fee, tax 2% of total fare
+
+        Step 1: Start
+        Step 2: Go to website to book flight
+                One way
+                Round Trip
+        Step 3: Choose boarding  and destination point
+        Step 4: Choose date
+        Step 5 : Select the flight you want to book
+        Step 5: Check for the seats availibilty 
+        
+        Step 6: Click to book
+        Step:7  Enter the passenger details
+        Step :8 Store the details
+        Step :9 Confirm number of seats to book
+        Step 10 : Store the number
+        Step 11: To pay : "X"
+        Step 12: Convinience fee 2 % of X
+        Step 13: Total fare : X + convinience fee = "Y"
+        Step 12:  Select the payment mode you want to use 
+                Paytm
+                UPI ( Phone pay / Gpay/ Bhim )
+                Add card
+        Step 13: Click on pay
+        Step 14: Confirm OTP
+                 If went sucesfully 
+                 Display " Paid , Your ticket has been booked for the following dates"
+                 else 
+                 If Unsuccesful
+                 Display " Try again. Transactions didn't go through"
+
+        Step 15: Your Tickets are booked 
+        Step 16: Passenger name: Mr XVZ
+                 Boarding point : PQR 
+                 Destination    : RST    
+                 Date           :    
+                 Pad            : " "
+        Step 17: Stop         
