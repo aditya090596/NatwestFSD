@@ -1,0 +1,11 @@
+package com.restapi_custauth_service;
+
+import java.util.List;
+
+import com.restapi_custauth_model.customer_details;
+
+public interface Icustservice  {
+	public customer_details savecustomer (customer_details custObj) throws CustomerAlreadyExistsException ;
+	
+	public List<customer_details> getAllCustomer() throws DataNotFound;
+}

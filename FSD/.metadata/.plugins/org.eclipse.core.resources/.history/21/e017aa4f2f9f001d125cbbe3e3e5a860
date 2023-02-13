@@ -1,0 +1,21 @@
+package com.natwest.ConversationMS.Entity;
+
+import lombok.*;
+
+import java.time.LocalDateTime;
+import java.util.List;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+public class Complaints {
+
+    private String compID;
+    private String description;
+    private LocalDateTime raisedAt;
+    private String status;
+    private String raisedBy;
+    private List<Conversation> conversations;
+
+}

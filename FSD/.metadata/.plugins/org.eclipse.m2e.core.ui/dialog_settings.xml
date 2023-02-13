@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\newsapp"/>
+			<item value="C:\Users\Admin\Desktop\MovieMS"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\capstone_project\spring-boot-swagger3-example-master"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\capstone_project\BackEnd\CustomerAuthServerMS"/>
+			<item value="C:\Users\Admin\Desktop\hackathon3\authServer"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\JWTextension\Forgotpassword"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\capstone_project"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\capstone_project\BackEnd"/>
+			<item value="C:\Users\Admin\Desktop\New folder (4)\capstone_project\BackEnd"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\New folder\Faq"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\New folder\Newsfeed"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\New folder\complaint"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\New folder\authServer"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\JWTextension\authServerextension"/>
+			<item value="C:\Users\Admin\Desktop\Reskilling OCT22\JWTextension"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="PasswordnGmail"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="443"/>
+		<item key="y" value="10"/>
+	</section>
+</section>

@@ -1,0 +1,5 @@
+package com.natwest.customerLogin;
+
+public class CustomerAuthControllerTest {
+
+}

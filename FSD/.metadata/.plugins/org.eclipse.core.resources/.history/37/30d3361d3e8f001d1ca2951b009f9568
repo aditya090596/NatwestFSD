@@ -1,0 +1,43 @@
+package com.restapi_custauth_service;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.restapi_custauth_Repository.Irepository;
+import com.restapi_custauth_model.customer_details;
+@Service
+public class serviceimpl implements Icustservice {
+     @Autowired
+	private Irepository repository;
+	@Override
+	public customer_details savecustomer(customer_details custObj) throws CustomerAlreadyExistsException {
+		// TODO Auto-generated method stub
+Optional<customer_details> optionalUser = this.repository.findByemail(custObj.getEmail());
+		
+customer_details addedUser=null;
+		
+		if(optionalUser.isPresent())
+		{
+			System.out.println("Customer details Already Exists !!!! ");
+			throw new CustomerAlreadyExistsException();
+		}
+		else
+		{
+			addedUser = this.repository.save(custObj);
+		}
+		
+	
+		return addedUser;
+	}
+	@Override
+	public List<customer_details> getAllCustomer() throws DataNotFound{
+		// TODO Auto-generated method stub
+		
+		List<customer_details> allcust=this.repository.findAll();
+		return allcust;
+	}
+
+}

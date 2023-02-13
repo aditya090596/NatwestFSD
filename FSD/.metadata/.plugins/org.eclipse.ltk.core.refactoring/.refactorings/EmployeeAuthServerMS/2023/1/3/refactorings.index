@@ -1,0 +1,8 @@
+1674221871997	Rename type 'ICustomerService'
+1674221916961	Rename type 'CustomerServiceImplementation'
+1674221993394	Rename type 'ICustomerRepository'
+1674222382633	Rename type 'CustomerAlreadyExistException'
+1674222422884	Rename type 'CustomerNotFoundException'
+1674223279358	Rename type 'CustomerAuthController'
+1674237990572	Delete element
+1674300465041	Delete element
