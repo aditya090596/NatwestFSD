@@ -1,0 +1,146 @@
+{
+  "news": [
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "JUAN CASTRO",
+      "title": "\"Juancito, nos vamos para casa\" - Marca",
+      "description": "De la euforia a la infelicidad. Me encuentro con un periodista argentino a la entrada de la &apos;zona mixta&apos;, y lo primero que me dice es esto: &apos;Nos volvemos a casa, Jua",
+      "url": "https://www.marca.com/futbol/mundial/2022/11/22/637cd16022601d42788b45cd.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/b102ee12b106c77ed5ae8ec9d11ed9ee/resize/1200/f/jpg/assets/multimedia/imagenes/2022/11/22/16691243951475.jpg",
+      "publishedAt": "2022-11-22T13:45:25Z",
+      "content": "De la euforia a la infelicidad. Me encuentro con un periodista argentino a la entrada de la 'zona mixta', y lo primero que me dice es esto: 'Nos volvemos a casa, Juancito, tengo un cumple de un amigo… [+2020 chars]",
+      "id": 1
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Sports Desk",
+      "title": "FIFA World Cup 2022, Denmark vs Tunisia Live Score: No goals so far in the Group D opener - The Indian Express",
+      "description": "FIFA World Cup 2022, Argentina vs Saudi Arabia Group C Live: KSA beat ARG 2-1 after Messi's first half goal",
+      "url": "https://indianexpress.com/article/sports/football/argentina-vs-saudi-arabia-denmark-vs-tunisia-mexico-vs-poland-france-vs-australia-fifa-world-cup-2022-live-score-8282592/",
+      "urlToImage": "https://images.indianexpress.com/2022/11/Den-VS-Tun.jpg",
+      "publishedAt": "2022-11-22T14:30:23Z",
+      "content": "Denmark vs Tunisia, Group D, FIFA World Cup 2022 Live Scorecard: Playing against the 2021 Euro semifinalists, Tunisia started the first 45 minutes of the campaign exceptionally well. If not for Kaspe… [+1041 chars]",
+      "id": "2bb11227-d5c2-4662-ba07-42f3256e6419"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Artemis Launch Live | Artemis Spacecraft | Nasa's Artemis Spacecraft Has Arrived At The Moon Live - CNN-News18",
+      "description": "Artemis Launch Live | Artemis Spacecraft | Nasa's Artemis Spacecraft Has Arrived At The Moon Live Nasa's Artemis spacecraft has successfully arrived at the m...",
+      "url": "https://www.youtube.com/watch?v=f1CEJmsjLEk",
+      "urlToImage": "https://i.ytimg.com/vi/f1CEJmsjLEk/maxresdefault_live.jpg",
+      "publishedAt": "2022-11-22T15:11:18Z",
+      "content": null,
+      "id": "001badf7-d12f-4d34-a853-ac4e876cc10d"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "‘Ye meri team hai…’: Hardik Pandya on Sanju Samson, Umran Malik's non-selection - Hindustan Times",
+      "description": "When asked about Sanju Samson and Umran Malik's non-selection, India's stand-in captain for the T20I leg of the tour, Hardik Pandya, said the ones who didn't get a game in the series will definitely get a long run in the future. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/hardik-pandya-s-reply-to-query-on-sanju-samson-umran-malik-s-non-selection-in-india-vs-new-zealand-t20is-101669124965610.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/11/22/1600x900/hardik_PC2_1669125162985_1669125171046_1669125171046.JPG",
+      "publishedAt": "2022-11-22T13:57:52Z",
+      "content": "In the two opportunities that India got - the series-opener in Wellington was rained out without a ball being bowled - in the three-match T20I series against New Zealand, they decided not to play x-f… [+3134 chars]",
+      "id": "29cc7d40-efe4-4237-8d95-572670faf219"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "AAP vs BJP Today In Delhi's First Civic Polls After Big Merger: 10 Facts - NDTV",
+      "description": "With garbage as a central issue, the AAP is targeting greater control in the national capital as voting for Municipal Corporation of Delhi is held today. The BJP is confident of extending its reign, while the Congress hopes to win back some ground.",
+      "url": "https://www.ndtv.com/india-news/mcd-election-voting-today-aap-vs-bjp-in-delhi-civic-polls-today-10-facts-3574906",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/tu0vi5d8_mcd-delhi-election-officials_625x300_03_December_22.jpg",
+      "publishedAt": "2022-12-04T05:53:00Z",
+      "content": "<li>Nearly 1.5 crore people are eligible to vote in the 250 wards, elections to which come as the three MCDs formed area-wise in 2011 were reunified and the wards redrawn after the last term of the B… [+3854 chars]",
+      "id": "f1b97673-9485-448d-9c1b-83c5f2ace486"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Garena Free Fire Max redeem codes December 4, 2022: Win daily rewards | Mint - Mint",
+      "description": "By redeeming these codes, players will have a chance to win Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, Fire Head Hunting Parachute using daily redeem codes.",
+      "url": "https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-december-4-2022-win-daily-rewards-11670129689626.html",
+      "urlToImage": "https://images.livemint.com/img/2022/12/04/600x338/Garena_Free_Fire_Max_1660704711147_1670129744231_1670129744231.jpg",
+      "publishedAt": "2022-12-04T04:57:31Z",
+      "content": "Garena Free Fire Max is a revamped version of Garena Free Fire. It is a multiplayer battle royale game that debuted in 2021 after the ban of the latter by the Indian government. The online game offer… [+1782 chars]",
+      "id": "38277449-ea07-4241-9a99-949d7bb6a533"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Israeli warplanes attack Gaza as EU calls for ‘accountability’ - Al Jazeera English",
+      "description": "Air raids on Gaza come in a week where 10 Palestinians have been killed by Israeli forces in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2022/12/4/israeli-warplanes-strike-gaza-as-eu-calls-for-accountability",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/2022-12-04T000959Z_810993396_RC2NYX9WC543_RTRMADP_3_ISRAEL-PALESTINIANS-VIOLENCE.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-12-04T03:30:13Z",
+      "content": "Israeli warplanes have attacked sites in the Gaza Strip after a rocket landed in southern Israel and as tensions reach a boiling point in the occupied West Bank, where 10 Palestinians have been kille… [+2001 chars]",
+      "Id": "d64fc7d4-bcdb-4987-9c87-54f572aaf2e2",
+      "id": 2
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Sharon Stone on her starstruck reaction to SRK: ‘I know a lot of stars but…’ - Hindustan Times",
+      "description": "Sharon Stone opened up about giving that starstruck reaction to seeing Shah Rukh Khan next to her at the Red Sea Film Festival on Thursday. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/sharon-stone-on-her-starstruck-reaction-to-srk-i-know-a-lot-of-stars-but-101670122367447.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/04/1600x900/shah_rukh_khan_1670122710639_1670122710775_1670122710775.png",
+      "publishedAt": "2022-12-04T03:18:43Z",
+      "content": "Shah Rukh Khan left Hollywood star Sharon Stone starstruck recently at the Red Sea Film Festival's opening night on Thursday. A video from the event showed Sharon gasping and clutching her heart sayi… [+1910 chars]",
+      "Id": "e17f4f8f-a60d-43d1-adaa-ca3d79471632",
+      "id": 3
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "Dalal Street Week Ahead | 10 key factors that will keep traders busy next week - Moneycontrol",
+      "description": "Given the recent one-sided run in the coming week, initially some more consolidation is likely especially ahead of Monetary Policy Committee meeting but northward journey is expected to resume once again towards 19,000 on the Nifty in following days, experts …",
+      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-10-key-factors-that-will-keep-traders-busy-next-week-48-9645181.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/07/SensexBSENSE-770x433.jpg",
+      "publishedAt": "2022-12-04T02:00:10Z",
+      "content": "It was another better week for the equity markets as the benchmark indices clocked one percent gains to end at record closing high for the week ended December 2, tracking positive global cues and fav… [+9934 chars]",
+      "id": "ce03fc70-d758-4d7a-80aa-990dba40bc20"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Education Desk",
+      "title": "CBSE Date Sheet 2023 LIVE Updates: Check Class 10, 12 theory and practical exam dates - The Indian Express",
+      "description": "CBSE 2023 Time-Table Live at cbse.gov.in: The detailed board sheet is now available at the official CBSE website — cbse.gov.in. The board will conduct Class 10 and 12 exams from February 15.",
+      "url": "https://indianexpress.com/article/education/cbse-cisce-icse-board-exams-2023-live-updates-date-sheet-released-at-cbse-gov-in-8254508/",
+      "urlToImage": "https://images.indianexpress.com/2022/11/CBSE-Board-Exams-2023-live.jpg",
+      "publishedAt": "2022-12-29T16:39:33Z",
+      "content": "The class 12 exams will be conducted on February 15, 16, 17, 20, 21, 22, 23, 24, 25, 27, 28 and March 1, 2, 3, 4, 6, 9, 10, 11, 13, 14, 16, 17, 18, 20, 21, 22, 23, 25, 28, 29, 31 and April 1, 3, 4, 5.",
+      "id": "33c22431-16a3-4b96-a6ba-a5257c3b413d"
+    }
+  ]
+}

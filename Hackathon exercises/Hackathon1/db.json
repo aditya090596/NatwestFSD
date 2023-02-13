@@ -1,0 +1,22 @@
+{
+  "database": [
+    {
+      "FullName": "Adi",
+      "email": "Adi@gmail.com",
+      "address": "wdd",
+      "AccountNumber": "1",
+      "PhoneNumber": "121",
+      "password": "As!123",
+      "id": 1
+    },
+    {
+      "FullName": "Adi",
+      "email": "sharagz@gmail.com",
+      "address": "hjfg",
+      "AccountNumber": "214546",
+      "PhoneNumber": "51511",
+      "password": "Asd!123",
+      "id": 2
+    }
+  ]
+}

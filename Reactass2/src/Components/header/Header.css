@@ -1,0 +1,12 @@
+.text-light {
+    font-family: 'Poppins', sans-serif;
+}
+.btn{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.header1 {
+   background-color:hwb(180 19% 69%);
+   /* color:salmon; */
+   
+}
