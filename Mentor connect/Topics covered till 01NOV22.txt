@@ -1,0 +1,17 @@
+2nd connect
+
+Topics covered till 01NOV22
+
+1. Algorithms
+2. Linux
+3. Html
+4. Css
+5. Bootstrap
+6. Javascript 
+   . Basics functions ( sorting, filter, loops, reduce etc)
+   . DOM manipulation
+   . Asynch - Set timer , call back, Promise
+7. Transferring data through CRUD (XML)
+8. Fetch API ( Using Promise)
+9. Js Assignment
+10. React * 
